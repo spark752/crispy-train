@@ -1,6 +1,6 @@
 {
-  "name": "egui Template PWA",
-  "short_name": "egui-template-pwa",
+  "name": "crispy-train-pwa",
+  "short_name": "crispy-train-pwa",
   "icons": [
     {
       "src": "./icon-256.png",
